@@ -12,3 +12,12 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiady66&show_icons=true&theme=radical)
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://instagram.com/kiadyravels
+[linkedin]: https://linkedin.com/in/kiady-raveloson
