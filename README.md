@@ -1,6 +1,6 @@
 ## Full Stack Developer (Eveho)
 
-###►►► Back-End (PHP / Symfony):
+►►► ### Back-End (PHP / Symfony):
 - Addition of new features to the Eveho solution
 - Creation of microservices that deliver restful APIs
 - Optimization of interactions between the various external services and the Eveho solution
