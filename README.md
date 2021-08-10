@@ -1,12 +1,12 @@
-### Developpeur full stack chez eveho
+## Full Stack Developer (Eveho)
 
-►►► Back-End (PHP / Symfony):
+###►►► Back-End (PHP / Symfony):
 - Addition of new features to the Eveho solution
 - Creation of microservices that deliver restful APIs
 - Optimization of interactions between the various external services and the Eveho solution
 - Development of KPIs to monitor the commercial activity of customers
 
-►►► Front-End (Js / VueJs / NuxtJs):
+###►►► Front-End (Js / VueJs / NuxtJs):
 - Integration of models made by designers
 - Improved customer experience on the front end
 
