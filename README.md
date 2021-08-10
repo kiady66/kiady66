@@ -16,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiady66&show_icons=true&theme=radical)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiady66&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiady66&layout=compact&theme=dark)]
 
 ### Languages and Tools:
 
